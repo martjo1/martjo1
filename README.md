@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martjo1
 
-I am a student earning a degree in computer science. I have some basic knowledge on SAS, SQL, HTML, CSS, and Python.
+New here.
 
 
 <!---
